@@ -11,7 +11,7 @@ function criarProduto(nome, preco){
 // vet.push(criarProduto('Bermuda', 15.00))
 
 // console.log(vet)
-console.log(criarProduto('Notebook', 2199,49))
-console.log(criarProduto('Samsung S20+', 4199,49))
+console.log(criarProduto('Notebook', 2199.49))
+console.log(criarProduto('Samsung S20+', 4199.49))
 console.log(criarProduto('Iphone 11 Pro', 6000))
 
